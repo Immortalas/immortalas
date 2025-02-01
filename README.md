@@ -1,1 +1,2 @@
-![Abhishek Singh](https://github.com/immortalas/immortalas/blob/main/images/abhishek.svg)
+![Abhishek Singh](https://raw.githubusercontent.com/immortalas/immortalas/abhishek.svg)
+
