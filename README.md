@@ -1,2 +1,1 @@
-![Abhishek Singh](https://raw.githubusercontent.com/immortalas/immortalas/abhishek.svg)
-
+![My SVG](./images/abhishek.svg)
