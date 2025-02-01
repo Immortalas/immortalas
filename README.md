@@ -1,1 +1,1 @@
-![My SVG](./images/abhishek.svg)
+abhishek.svg
