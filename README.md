@@ -1,1 +1,1 @@
-https://github.com/Immortalas/immortalas/blob/main/abhishek.svg
+https://github.com/Immortalas/immortalas/blob/main/images/abhishek.svg
