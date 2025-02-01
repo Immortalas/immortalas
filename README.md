@@ -1,1 +1,1 @@
-![Abhishek Singh](https://github.com/Immortalas/Immortalas/c9a9ef194f2bc539c7bd1006346b60106c434c76/abhishek.svg)
+https://raw.githubusercontent.com/Immortalas/immortalas/c9c80c9c36f92091118cfa1b897e7b150af17a2f/abhishek.svg
