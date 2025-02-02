@@ -6,8 +6,7 @@
 - I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But the reality made me have to learn a technology💻
-- Although I was not interested in it at the beginning,
+- I used to dream of being a writer.But,the reality made me have to learn a technology💻.Although I was not interested in it at the beginning,
   luckily I slowly fell in love with it. ❤️
 
 <div align='center'>
