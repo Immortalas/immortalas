@@ -8,7 +8,7 @@
 - I also like **literature, reading and writing.** 
 - I used to dream of being a writer.But the reality made me have to learn a technology💻
 - Although I was not interested in it at the beginning,
-- **luckily I slowly fell in love with it. ❤️
+- luckily I slowly fell in love with it. ❤️
 
 <div align='center'>
   <p align='center'>
