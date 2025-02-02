@@ -1,6 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/b05ac3d9-c809-44bd-b27c-8fb61a9f83db)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> Fullstack developer from <img src="(https://github.com/user-attachments/assets/d44ea19a-adb9-4f60-91c3-e3c54becb5e3)
+<p>Welcome to my page! </br> Fullstack developer from <img src="![image](https://github.com/user-attachments/assets/14ec815b-4468-4eaf-9630-9428eb0d11e7)
+
 " width="13"/> <b>Rajasthan, India</b>
 <div align='center'>
   <p align='center'>
