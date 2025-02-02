@@ -8,7 +8,7 @@
 - I also like **literature, reading and writing.** 
 - I used to dream of being a writer. But, the reality that made me have to learn a technology💻. Although I was not interested in it initially,
   luckily I slowly fell in love with it. ❤️
-- Here my 📝 [Resume] (https://drive.google.com/file/d/1a8NOzFGSkF9gYzQckvPqqoS-YXXE2_dC/view)
+- Here my 📝 [Resume] <a href="https://drive.google.com/file/d/1a8NOzFGSkF9gYzQckvPqqoS-YXXE2_dC/view"></a>
 
 <div align='center'>
   <p align='center'>
