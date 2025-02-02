@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009677.png" width="13"/> <b>Rajasthan, India</b>
 <br />
 
-- I am a **Programming rookie** 
+- I am a **Rookie Programmer** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
 - I also like **literature, reading and writing.** 
 - I used to dream of being a writer. But, the reality that made me have to learn a technology💻. Although I was not interested in it initially,
