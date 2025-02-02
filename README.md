@@ -1,6 +1,13 @@
 ![Image](https://github.com/user-attachments/assets/b05ac3d9-c809-44bd-b27c-8fb61a9f83db)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/14009/14009677.png" width="13"/> <b>Rajasthan, India</b>
+- I am a **Programming rookie** 
+- I like to use a variety of useful **computer software** and build  **beautiful blog.**
+- I also like **literature, reading and writing.** 
+- I used to dream of being a writer.But **the reality made me have to learn a technology💻,
+- and I also came into contact with programming.
+- Although I was **not interested** in it at the beginning,
+  luckily I slowly fell in love with it. ❤️
 <div align='center'>
   <p align='center'>
     <h3 align="left">Connect with me:</h3>
