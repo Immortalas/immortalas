@@ -8,6 +8,7 @@
 - I also like **literature, reading and writing.** 
 - I used to dream of being a writer. But, the reality that made me have to learn a technology💻. Although I was not interested in it initially,
   luckily I slowly fell in love with it. ❤️
+-Here my 📝 [Resume](https://rusty-sj.github.io/media/Rashmi_Jadhav.pdf)
 
 <div align='center'>
   <p align='center'>
