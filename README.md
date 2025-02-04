@@ -5,7 +5,7 @@
 
 - I am a **Rookie Programmer** 
 - I like to use a variety of **computer software and AI Tools** and build  **beautiful Web and App Pages.**
-- I used to dream of being a writer. But, the reality that made me have to learn a technology💻. Although I was not interested in it initially,
+- I once dreamed of being a writer, but life led me into the world of technology. What started as mere necessity soon turned into passion. 💻❤️,
   luckily I slowly fell in love with it. ❤️
 - Here's my 📝  <a href="https://drive.google.com/file/d/1a8NOzFGSkF9gYzQckvPqqoS-YXXE2_dC/view">Resume</a>
 
